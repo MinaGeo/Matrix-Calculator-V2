@@ -1,0 +1,12 @@
+﻿  majortask2.cpp
+D:\old c\source\repos\majortask2\majortask2\majortask2.cpp(75,23): warning C4018: '<': signed/unsigned mismatch
+D:\old c\source\repos\majortask2\majortask2\majortask2.cpp(80,23): warning C4018: '<': signed/unsigned mismatch
+D:\old c\source\repos\majortask2\majortask2\majortask2.cpp(88,23): warning C4018: '<': signed/unsigned mismatch
+D:\old c\source\repos\majortask2\majortask2\majortask2.cpp(93,23): warning C4018: '<': signed/unsigned mismatch
+D:\old c\source\repos\majortask2\majortask2\majortask2.cpp(213,27): warning C4552: '*': result of expression not used
+D:\old c\source\repos\majortask2\majortask2\majortask2.cpp(227,6): error C2084: function 'bool Transpose(double [][100],int,int,double [][100],int &,int &)' already has a body
+D:\old c\source\repos\majortask2\majortask2\majortask2.cpp(176): message : see previous definition of 'Transpose'
+D:\old c\source\repos\majortask2\majortask2\majortask2.cpp(249,74): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+D:\old c\source\repos\majortask2\majortask2\majortask2.cpp(253,24): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\old c\source\repos\majortask2\majortask2\majortask2.cpp(351,33): error C2065: 'Transpose': undeclared identifier
+D:\old c\source\repos\majortask2\majortask2\majortask2.cpp(351,92): warning C4305: 'initializing': truncation from 'bool (__cdecl *)(double [][100],int,int,double [][100],int &,int &)' to 'bool'
